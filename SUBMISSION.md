@@ -2,13 +2,13 @@
 #HW5
 
 
-![Fork to gitHub account](images/forkRepos.png)
-![Build one](images/build1.png)
-![POM coordinates](images/pomCoordinates.png)
-![Build two](images/build2.png)
-![Broken POM](images/brokenPOM.png)
-![Build three/Failed Build](images/build3BROKEN.png)
-![Broken gitHub readME](images/gitHubBrokenReadME.png)
-![Fixed POM](images/fixedPOM.png)
-![Build four](images/build4.png)
-![Fixed gitHub readME](images/fixedREADME.png)
+![Fork to gitHub account](Images/forkRepos.png)
+![Build one](Images/build1.png)
+![POM coordinates](Images/pomCoordinates.png)
+![Build two](Images/build2.png)
+![Broken POM](Images/brokenPOM.png)
+![Build three/Failed Build](Images/build3BROKEN.png)
+![Broken gitHub readME](Images/gitHubBrokenReadME.png)
+![Fixed POM](Images/fixedPOM.png)
+![Build four](Images/build4.png)
+![Fixed gitHub readME](Images/fixedREADME.png)
